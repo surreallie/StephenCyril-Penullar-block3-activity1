@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.penullar.stephencyril.block3.p1.quiz"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.penullar.stephencyril.block3.p1.quiz"
